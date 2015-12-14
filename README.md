@@ -1,5 +1,4 @@
-# Free-Bootstrap-Template
-Free Bootstrap Template https://mobirise.com/bootstrap-template/
+# [Free Bootstrap Template] (https://mobirise.com/bootstrap-template/)
 
 
 MOBIRISE FREE BOOTSTRAP TEMPLATE
